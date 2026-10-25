@@ -22,6 +22,9 @@ This frontend provides a centralized dashboard that connects retail analytics wi
 
 ## Architecture
 
+<img width="1672" height="940" alt="AI-Powered Retail Forecasting Architecture" src="https://github.com/user-attachments/assets/4ef47f0e-c791-4234-a5dc-330e37d80a8e" />
+
+
 The platform consists of three main services:
 
 1. **Frontend:** React + Vite for the dashboard and user interface.
